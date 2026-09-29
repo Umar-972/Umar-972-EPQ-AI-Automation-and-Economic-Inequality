@@ -9,7 +9,7 @@
 **Purpose:**
 > - Explain the question and its importance in modern-day society. 
 > - Introduce the relationship between technological development and economic inequality. 
-> - Explain the rapid development of Gen AI [add graphs] and why it could have significant effects on the UK economy. 
+> - Explain the rapid development of Gen AI and why it could have significant effects on the UK economy. 
 >
 > - Establish that technological change may affect inequality in several ways, such as: 
 >
@@ -121,7 +121,7 @@
 > > - Increase demand for complementary workers. 
 > >
 > - Distinguish between **job displacement and overall/net employment effects**. 
-> - Use UK employment data [add graphs/data]. 
+> - Use UK employment data  . 
 
 ##### ------------------------------------------------------------------------------------------------------------------
 
@@ -142,7 +142,7 @@ productivity.
 > > - Medium-skilled workers. 
 > > - Low-skilled workers. 
 > >
-> - Use UK wage and employment data [add graphs/data]. 
+> - Use UK wage and employment data  . 
 
 ##### ------------------------------------------------------------------------------------------------------------------
 
