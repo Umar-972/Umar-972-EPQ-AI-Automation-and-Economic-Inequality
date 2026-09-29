@@ -1,86 +1,120 @@
 ## "To what extent will AI and automation increase economic inequality within developed economies?"
 ##### AI, Automation and Economic Inequality
 
-1) Introduction
-Target Length: 300 words
-Purpose:
-•	Explain the question and its importance in modern-day society. 
-•	Introduce the relationship between technological development and economic inequality. 
-•	Explain the rapid development of Gen AI [add graphs] and why it could have significant effects on the UK economy. 
-•	Establish that technological change may affect inequality in several ways, such as: 
-o	Some jobs may be automated. 
-o	Some workers may become more productive. 
-o	New occupations may be created. 
-o	Businesses may experience lower production costs. 
-o	AI-related profits may increase. 
-•	Introduce the key debate: whether AI mainly replaces workers or complements them. 
-•	Specify that the economy being examined is The United Kingdom of Great Britain & Northern Ireland. 
-2) Definitions and Economic Terminology
-Target Length: 250–300 words
-Purpose:
-•	Define the terminology before beginning the analysis. 
-•	Terminology to define: 
-o	Artificial Intelligence: Technology capable of performing tasks that traditionally require human intelligence. 
-o	Generative AI (Gen AI): AI capable of generating content such as text, images, audio, video or computer code. 
-o	Automation: The use of technology to perform tasks previously performed by humans. 
-o	Economic inequality: Differences in the distribution of income, wealth or economic opportunities between individuals or groups. 
-o	Income inequality: Differences in the income received by individuals or households. 
-o	Human capital: The skills, knowledge, qualifications and experience possessed by workers. 
-o	Capital: Assets used in production, including machinery, technology and software. 
-o	Productivity: The amount of output produced from a given quantity of inputs. 
-o	Gini coefficient: A commonly used measure of inequality, where higher values indicate greater inequality. 
-3) Personal Experimentation with AI and Automation
-Target Length: 800–1,000 words
-Purpose:
-•	Use personal experimentation with Gen AI as primary evidence. 
-•	Investigate which types of work AI can: 
-o	Perform. 
-o	Assist with. 
-o	Potentially replace. 
-•	Test a range of tasks, for example: 
-o	Report writing. 
-o	Summarising information. 
-o	Data analysis. 
-o	Presentation creation. 
-o	Basic financial calculations. 
-o	Coding. 
-o	Administrative tasks. 
-•	Compare tasks involving different skill levels. 
-•	Record: 
-o	Time taken. 
-o	Quality of output. 
-o	Accuracy. 
-o	Human checking required. 
-o	Whether AI replaces or supports the task. 
-o	Record on a radar graph
-•	Link the results to economic concepts such as: 
-o	Labour demand. 
-o	Labour productivity. 
-o	Marginal productivity. 
-o	Wage inequality. 
-o	Capital ownership. 
-•	Explain the limitations of the experiment: 
-o	Small number of tasks. 
-o	Rapid changes in AI capabilities. 
-o	Subjective assessment of quality. 
-o	Real workplaces cannot be fully replicated. 
-•	Make clear that the experiment is illustrative evidence rather than proof of an economy-wide effect. 
-4) AI, Automation and Employment
-Target Length: 400 words
-Purpose:
-•	Examine how AI and automation may affect employment in the UK. 
-•	Explain how automation could: 
-o	Reduce demand for certain workers. 
-o	Cause job displacement. 
-o	Increase structural unemployment. 
-o	Make some skills less valuable. 
-•	Examine the counterargument that technology can: 
-o	Create new occupations. 
-o	Create new industries. 
-o	Increase productivity. 
-o	Increase demand for complementary workers. 
-•	Distinguish between job displacement and overall/net employment effects. 
-•	Use UK employment data [add graphs/data]. 
+1) **Introduction**
+> **Target Length:** 300 words
+
+**Purpose:**
+> - Explain the question and its importance in modern-day society. 
+> - Introduce the relationship between technological development and economic inequality. 
+> - Explain the rapid development of Gen AI [add graphs] and why it could have significant effects on the UK economy. 
+>
+> - Establish that technological change may affect inequality in several ways, such as: 
+>
+> > - Some jobs may be automated.
+> > - Some workers may become more productive.
+> > - New occupations may be created.
+> > - Businesses may experience lower production costs.
+> > - AI-related profits may increase.
+>
+> - Introduce the key debate: "Whether AI mainly **replaces workers or complements them.**"
+> - Specify that the economy being examined is **The United Kingdom of Great Britain & Northern Ireland**. 
+
+2) **Definitions and Economic Terminology**
+
+**Target Length:** 250–300 words
+
+**Purpose:**
+
+> -	Define the terminology before beginning the analysis. 
+> -	Terminology to define: 
+> >
+> > - **Artificial Intelligence:** Technology capable of performing tasks that traditionally require human intelligence. 
+>
+> > - **Generative AI (Gen AI):** AI capable of generating content such as text, images, audio, video or computer code. 
+>
+> > - **Automation:** The use of technology to perform tasks previously performed by humans. 
+>
+> > - **Economic inequality:** Differences in the distribution of income, wealth or economic opportunities between individuals or groups. 
+>
+> > - **Income inequality:** Differences in the income received by individuals or households. 
+>
+> > - **Human capital:** The skills, knowledge, qualifications and experience possessed by workers. 
+>
+> > - **Capital:** Assets used in production, including machinery, technology and software. 
+>
+> > - **Productivity:** The amount of output produced from a given quantity of inputs. 
+>
+> > - **Gini coefficient:** A commonly used measure of inequality, where higher values indicate greater inequality. 
+
+3) **Personal Experimentation with AI and Automation**
+
+**Target Length:** 800–1,000 words
+
+**Purpose:**
+
+> - Use personal experimentation with Gen AI as **primary evidence**. 
+> - Investigate which types of work AI can: 
+>>
+> > - Perform. 
+> > - Assist with. 
+> > - Potentially replace. 
+> >
+> - Test a range of tasks, for example: 
+> >
+> > - Report writing. 
+> > - Summarising information. 
+> > - Data analysis. 
+> > - Presentation creation. 
+> > - Basic financial calculations. 
+> > - Coding. 
+> > - Administrative tasks. 
+> >
+> - Compare tasks involving different skill levels. 
+> - Record: 
+> > - Time taken. 
+> > - Quality of output. 
+> > - Accuracy. 
+> > - Human checking required. 
+> > - Whether AI replaces or supports the task. 
+> > - Record on a radar graph
+> >
+> - Link the results to economic concepts such as: 
+> > - Labour demand. 
+> > - Labour productivity. 
+> > - Marginal productivity. 
+> > - Wage inequality. 
+> > - Capital ownership.
+> >
+> - Explain the limitations of the experiment: 
+> > - Small number of tasks. 
+> > - Rapid changes in AI capabilities. 
+> > - Subjective assessment of quality. 
+> > - Real workplaces cannot be fully replicated. 
+> - Make clear that the experiment is **illustrative evidence rather than proof of an economy-wide effect**. 
+
+4) **AI, Automation and Employment**
+
+**Target Length:** 400 words
+
+**Purpose:**
+
+> - Examine how AI and automation may affect employment in the UK. 
+> - Explain how automation could: 
+> > - Reduce demand for certain workers. 
+> > - Cause job displacement. 
+> > - Increase structural unemployment. 
+> > - Make some skills less valuable. 
+> > 
+> - Examine the counterargument that technology can: 
+> > - Create new occupations. 
+> > - Create new industries. 
+> > - Increase productivity. 
+> > - Increase demand for complementary workers. 
+> >
+> - Distinguish between **job displacement and overall/net employment effects**. 
+> - Use UK employment data [add graphs/data]. 
+
 5) AI and Wage Inequality
 Target Length: 400 words
 Purpose:
