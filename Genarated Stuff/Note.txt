@@ -1,0 +1,38 @@
+Important:
+    It is important to note that all unrelated tasks are completed in separate chats with history turned off
+
+    It is important to note all AIs recieve the exact same promt
+
+    It is important to note that all responses are graded on a scale from 1-5
+    indipendantly of each other. (Only points for the final product)
+
+    It is important to note all test were done on the same device (Lenovo ideapad 3), on the same network, one after the other
+    (ChatGPT -> Claude -> Gemini -> Copilot)
+
+Only models tested:
+        ChatGPT : GPT-5.6 Luna
+        Claude  : Sonnet 5.5 (Medium effort)
+        Gemini  : Flash
+        Copilot : Microsoft 365 Copilot (Powered by GPT-5)
+
+Test a range of tasks, for example:     
+    Report writing. 
+    Summarising information. 
+    Data analysis. 
+    Presentation creation. 
+    Basic financial calculations. 
+    Coding. 
+    Administrative tasks. 
+
+Compare tasks involving different skill levels. 
+
+Record: 
+    Time taken. 
+    Quality of output. 
+    Accuracy. 
+    Human checking required. 
+    Whether AI replaces or supports the task. 
+    Record on a radar graph
+
+After recording, data will be plotted on a Radar graph
+And will be asked to three different people to remove bias

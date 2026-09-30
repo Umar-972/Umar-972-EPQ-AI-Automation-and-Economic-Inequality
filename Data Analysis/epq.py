@@ -86,6 +86,7 @@ if __name__ == "__main__":
     #print(f"{unemployed_percent:.2f}%")
     plt.pie(pie_val, labels=["Employed", "Unemployed", "Students", "Retirerds"], autopct="%1.1f%%")
     plt.title("Employment status of respondents")
+    plt.savefig("Graphs/Fig1.png")
     plt.show()
 
     #print(f"DF shape: {df.shape}")
