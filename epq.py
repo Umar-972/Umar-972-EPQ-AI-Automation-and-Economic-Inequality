@@ -100,7 +100,8 @@ if __name__ == "__main__":
 
 
 
-# Note:
-#   Because the EPQ is to be presented to a "non-specialist audience" I have decided to leave plenty of comments
-#   explaining the process behind the program and how it operates for others to understand whilst marking or viewing
-#   the code.
+#Note:
+#  As this EPQ is intended for a non-specialist audience, I have included detailed comments throughout the code. 
+#  These explain the purpose of each section, the reasoning behind key decisions, and how the different 
+#  components of the program work. This is intended to make the implementation understandable to someone without specialist
+#  programming knowledge and to demonstrate my understanding of the code and the development process.
