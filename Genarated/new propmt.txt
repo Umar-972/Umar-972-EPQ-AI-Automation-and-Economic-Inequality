@@ -1,0 +1,1 @@
+Create me a MODERN Python GUI made by using CustomTKInter, FastAPI, Matpoltlib and any other libraries you may need to which fetches real time weather data and displays on the GUI, allow Dark/lightmode, allow user to input their City, make it have graphs and be interesting
