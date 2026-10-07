@@ -1,0 +1,20 @@
+Results
+Promt: "Generate me a poster advertising the latest pair of RUNNING SHOES. Make the poster look ALIVE and DYNAMIC. Keep a theme of raw, animalistic energy from the images, fonts & texts used, and the colour palette."
+
+1) ChatGPT
+See #3/Images/ChatGPT.png
+
+3) Claude
+See #3/Images/Claude.png
+
+3) Gemini
+See #3/Images/Gemini.jpg
+
+4) Copilot
+See #3/Images/Copilot.png
+
+Important points:
+ChatGPT, Claude, and Copilot all produced PNGs, but Gemini produced a JPEG file
+Only Claude didn't produce a `realistic` image
+No AI failed
+Only Gemini add a person

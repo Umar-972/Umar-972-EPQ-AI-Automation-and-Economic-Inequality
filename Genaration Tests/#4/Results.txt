@@ -1,0 +1,24 @@
+Results
+Promt: "In Python, create me a modern Weather app that connects to Open-Meteo.
+        Allow the user to input a City they want to search
+        Allow the user to switch between preset themes
+        Use FastAPI, Matplotlib, CustomTKInter, DateTime and any other libraries that you may need 
+        Ensure fast connection to Open-Metro
+        Ensure the GUI is fullscreen when it is opened
+        Give me this in a downloadable ZIP folder that contains backend.py, main.py, requirements.txt, and a README.md clearly outlining the structure of the app"
+
+1) ChatGPT
+See #4/Code/Extracted Folders/ChatGPT/weather_app
+See #4/Code/ZIP Folders/ChatGPT/weather_app
+
+3) Claude
+See #4/Code/
+
+3) Gemini
+See #4/Code/
+
+4) Copilot
+See #4/Code/
+
+Important notes:
+Gemini isn't able to send a binary .zip for user to download therefore all code has been copy + pasted
